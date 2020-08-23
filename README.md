@@ -1,4 +1,4 @@
-# emilia
+# discordbot
 a discord.py template 
 
 ## Create a server
